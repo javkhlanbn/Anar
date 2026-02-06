@@ -1,0 +1,7 @@
+{
+  "name": "Valentine's Date Invitation",
+  "description": "A cute and interactive Valentine's Day invitation website with AI-powered personalized romantic messages.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
